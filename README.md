@@ -6,6 +6,14 @@
 
 python code for kyutech students.
 
+## style
+
+### folder name
+
+%yy%MM%dd
+
+2023-01-25 -> 230125
+
 ## Author
 
 [mio256](https://github.com/mio256)
